@@ -23,7 +23,7 @@ import (
 const (
 	SuccessDuration = 3 * time.Hour
 
-	crdName                      = "dynakubes.dynatrace.com"
+	crdName                      = "dynakubes.astromkey.com"
 	secretPostfix                = "-certs"
 	errorCertificatesSecretEmpty = "certificates secret is empty"
 )
